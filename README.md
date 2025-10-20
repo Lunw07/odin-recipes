@@ -1,1 +1,1 @@
-# odin-recipes
+The project is the odin project 
